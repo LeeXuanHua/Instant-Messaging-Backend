@@ -1,6 +1,6 @@
 # Instant-Messaging-System
 
-![Tests](https://https://github.com/LeeXuanHua/Instant-Messaging-Backend/actions/workflows/test.yml/badge.svg)
+![Tests](https://github.com/LeeXuanHua/Instant-Messaging-Backend/actions/workflows/test.yml/badge.svg)
 
 Backend assignment of 2023 TikTok Tech Immersion.
 
